@@ -1,11 +1,5 @@
 # bya-incomplete-web-app
 
-A simple in-browser **Task Manager** web app. Users can add tasks, mark them complete, and delete them.
-
-## Getting Started
-
-Open `index.html` in any modern browser — no build step required.
-
 ## TODOs
 
 The following features are missing and must be implemented before the app is fully functional:
